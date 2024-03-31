@@ -2348,11 +2348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\BusinessObjects\\BusinessObjects.csproj",
+      "projectPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\BusinessObjects\\BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\Huynh Nguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\BusinessObjects\\obj\\",
+      "outputPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huynh Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

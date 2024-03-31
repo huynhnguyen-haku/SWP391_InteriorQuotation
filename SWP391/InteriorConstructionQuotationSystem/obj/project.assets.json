@@ -2338,11 +2338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\InteriorConstructionQuotationSystem\\InteriorConstructionQuotationSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\InteriorConstructionQuotationSystem\\InteriorConstructionQuotationSystem.csproj",
       "projectName": "InteriorConstructionQuotationSystem",
-      "projectPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\InteriorConstructionQuotationSystem\\InteriorConstructionQuotationSystem.csproj",
+      "projectPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\InteriorConstructionQuotationSystem\\InteriorConstructionQuotationSystem.csproj",
       "packagesPath": "C:\\Users\\Huynh Nguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\InteriorConstructionQuotationSystem\\obj\\",
+      "outputPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\InteriorConstructionQuotationSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huynh Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2359,11 +2359,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\BusinessObjects\\BusinessObjects.csproj"
+            "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Huynh Nguyen\\Desktop\\SWP391_InteriorQuotation\\SWP391\\Repository\\Repository.csproj"
+            "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Huynh Nguyen\\Documents\\FPT University\\Kỳ 7\\PRN211\\SWP391\\Repository\\Repository.csproj"
             }
           }
         }
