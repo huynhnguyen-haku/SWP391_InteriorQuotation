@@ -1,7 +1,18 @@
+using Repository.Implementation;
+using Repository.Interface;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddHttpContextAccessor();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IBlogRepo, BlogRepo>();
+builder.Services.AddScoped<IProjectRepo, ProjectRepo>();
+builder.Services.AddScoped<IQuotationRepo, QuotationRepo>();
+builder.Services.AddScoped<IAccountRepo, AccountRepo>();
+builder.Services.AddScoped<IInteriorRepo, InteriorRepo>();
+builder.Services.AddScoped<IStyleRepo, StyleRepo>();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -15,6 +26,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+app.UseSession();
 
 app.UseRouting();
 
